@@ -1,6 +1,6 @@
 [profile.default]
-src = 'contracts'
-test = 'ftests'
+src = 'foundry'
+test = 'test'
 script = 'script'
 out = 'build'
 libs = ['lib']
